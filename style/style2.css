@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&family=SUSE:wght@100..800&display=swap');
+.fascinate-font{
+    font-family: "Fascinate Inline", system-ui;
+}
+.suse-font{
+    font-family: "SUSE", system-ui;
+}
+.hover-txt:hover{
+    color: rgb(220, 220, 9) !important;
+}
+main .Testbg{
+    width: 100%;
+    height: 100vh;
+    background-image: url(/image/no\ file.webp );
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*--------Upcoming style---------*/
+main .upcoming{
+    width: 100%;
+    /* height: ;100vh */
+    background-image: url(/image/Hero\ Girl.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+/*--------Card style---------*/
+.card .image{
+    
+    height: 450px;
+}
+
+/*--------footer---------*/
+.footer{
+    width: 100%;
+}
+.menu{
+    width: 100%;
+    /* height: 100vh; */
+    background-image: url(/image/footer\ bg\ 2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.hover-icon :hover{
+    color: rgb(220, 220, 9) !important;
+}
